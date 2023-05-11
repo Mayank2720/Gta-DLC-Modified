@@ -12,7 +12,7 @@ Last 3 DLC Pack Vehicles have been modified
 
 
 ## Features
-- No Heavy Armors options in Customisation
+- No Heavy Armors/Door Armors options in Customisation
 - No Weapons options in Customisation
 - Removed all HSW Upgrades as they dont Showup in modifications
 - Tested on Both Bennys(qb-customs) & Jim-mechanic 
