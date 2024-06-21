@@ -1,8 +1,10 @@
 
 fx_version "bodacious"
 game "gta5"
-author "MayanK"
+author "MayanK#7375"
 
+description 'Removes optional weapons and armor from vehicles with those options.'
+version '1.2'
 
 files {
     'data/*.meta'
